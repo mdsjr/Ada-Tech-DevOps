@@ -30,3 +30,6 @@ Este repositório serve como registro do meu aprendizado durante a primeira aula
 Sinta-se à vontade para explorar o código e os commits para acompanhar minha evolução.  
 Em caso de dúvidas ou sugestões, entre em contato!  
 Let's code! 🚀  
+
+![image](https://github.com/user-attachments/assets/fdd4ff8e-b952-4b4d-be1c-4be382cf7656)
+
