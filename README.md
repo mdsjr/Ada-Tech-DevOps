@@ -1,24 +1,25 @@
 # Ada-Tech-DevOps
 Repositorio criado durante aula inicial sobre git 
 
-Aula 1: Introdução ao Git e GitHub
+## Aula 1: Introdução ao Git e GitHub
 
-Git:
+## Git:
 Instalação e configuração do Git  
 Criação de um repositório local  
 Comandos básicos do Git (add, commit, push, pull)  
 Gerenciamento de branches  
 Resolução de conflitos  
-GitHub:  
+## GitHub:  
 Criação de uma conta no GitHub  
 Criação de um repositório remoto  
 Conexão entre o repositório local e o remoto  
 Colaboração em projetos via GitHub (pull requests, issues)  
-Exercícios e Projetos:  
+## Exercícios e Projetos:  
 
-Exercício 1: Criação de um repositório local e adição de arquivos  
-Exercício 2: Criação de branches e realização de merges  
+## Exercício 1: Criação de um repositório local e adição de arquivos  
+## Exercício 2: Criação de branches e realização de merges  
 Projeto: Criação de um repositório remoto no GitHub e sincronização com o repositório local  
+
 Próximos Passos:  
 
 Continuar explorando os recursos do Git e GitHub  
